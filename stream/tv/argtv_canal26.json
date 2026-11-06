@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Canal 26",
+      "title": "En vivo",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+    }
+  ]
+}

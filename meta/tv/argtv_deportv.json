@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_deportv",
+    "type": "tv",
+    "name": "DeporTV",
+    "poster": "https://i.imgur.com/iyYLNRt.png",
+    "logo": "https://i.imgur.com/iyYLNRt.png",
+    "posterShape": "square",
+    "description": "DeporTV en vivo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_a24",
+    "type": "tv",
+    "name": "A24",
+    "poster": "https://i.imgur.com/OdhF7ym.png",
+    "logo": "https://i.imgur.com/OdhF7ym.png",
+    "posterShape": "square",
+    "description": "A24 en vivo"
+  }
+}

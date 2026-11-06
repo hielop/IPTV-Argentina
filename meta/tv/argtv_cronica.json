@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_cronica",
+    "type": "tv",
+    "name": "Crónica TV",
+    "poster": "https://i.imgur.com/k2Ku8Ib.png",
+    "logo": "https://i.imgur.com/k2Ku8Ib.png",
+    "posterShape": "square",
+    "description": "Crónica TV en vivo"
+  }
+}

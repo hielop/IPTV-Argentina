@@ -1,0 +1,121 @@
+{
+  "metas": [
+    {
+      "id": "argtv_eltrece",
+      "type": "tv",
+      "name": "El Trece",
+      "poster": "https://i.imgur.com/ZK7AQFg.png",
+      "logo": "https://i.imgur.com/ZK7AQFg.png",
+      "posterShape": "square",
+      "description": "El Trece en vivo"
+    },
+    {
+      "id": "argtv_telefe",
+      "type": "tv",
+      "name": "Telefe",
+      "poster": "https://i.imgur.com/wrZfMXn.png",
+      "logo": "https://i.imgur.com/wrZfMXn.png",
+      "posterShape": "square",
+      "description": "Telefe en vivo"
+    },
+    {
+      "id": "argtv_tn",
+      "type": "tv",
+      "name": "TN Todo Noticias",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+      "posterShape": "square",
+      "description": "TN Todo Noticias en vivo"
+    },
+    {
+      "id": "argtv_america",
+      "type": "tv",
+      "name": "América",
+      "poster": "https://i.imgur.com/Jt7dOQm.png",
+      "logo": "https://i.imgur.com/Jt7dOQm.png",
+      "posterShape": "square",
+      "description": "América en vivo"
+    },
+    {
+      "id": "argtv_elnueve",
+      "type": "tv",
+      "name": "El Nueve",
+      "poster": "https://i.imgur.com/EtcVSm4.png",
+      "logo": "https://i.imgur.com/EtcVSm4.png",
+      "posterShape": "square",
+      "description": "El Nueve en vivo"
+    },
+    {
+      "id": "argtv_tvpublica",
+      "type": "tv",
+      "name": "Televisión Pública",
+      "poster": "https://i.imgur.com/4hYYpiu.png",
+      "logo": "https://i.imgur.com/4hYYpiu.png",
+      "posterShape": "square",
+      "description": "Televisión Pública en vivo"
+    },
+    {
+      "id": "argtv_a24",
+      "type": "tv",
+      "name": "A24",
+      "poster": "https://i.imgur.com/OdhF7ym.png",
+      "logo": "https://i.imgur.com/OdhF7ym.png",
+      "posterShape": "square",
+      "description": "A24 en vivo"
+    },
+    {
+      "id": "argtv_c5n",
+      "type": "tv",
+      "name": "C5N",
+      "poster": "https://i.imgur.com/E3pamA5.png",
+      "logo": "https://i.imgur.com/E3pamA5.png",
+      "posterShape": "square",
+      "description": "C5N en vivo"
+    },
+    {
+      "id": "argtv_lnmas",
+      "type": "tv",
+      "name": "LN+",
+      "poster": "https://i.imgur.com/vJYzGt1.png",
+      "logo": "https://i.imgur.com/vJYzGt1.png",
+      "posterShape": "square",
+      "description": "LN+ en vivo"
+    },
+    {
+      "id": "argtv_cronica",
+      "type": "tv",
+      "name": "Crónica TV",
+      "poster": "https://i.imgur.com/k2Ku8Ib.png",
+      "logo": "https://i.imgur.com/k2Ku8Ib.png",
+      "posterShape": "square",
+      "description": "Crónica TV en vivo"
+    },
+    {
+      "id": "argtv_canal26",
+      "type": "tv",
+      "name": "Canal 26",
+      "poster": "https://i.imgur.com/5pAaVih.png",
+      "logo": "https://i.imgur.com/5pAaVih.png",
+      "posterShape": "square",
+      "description": "Canal 26 en vivo"
+    },
+    {
+      "id": "argtv_deportv",
+      "type": "tv",
+      "name": "DeporTV",
+      "poster": "https://i.imgur.com/iyYLNRt.png",
+      "logo": "https://i.imgur.com/iyYLNRt.png",
+      "posterShape": "square",
+      "description": "DeporTV en vivo"
+    },
+    {
+      "id": "argtv_cinear",
+      "type": "tv",
+      "name": "Cine.AR",
+      "poster": "https://i.imgur.com/RPLyrIC.png",
+      "logo": "https://i.imgur.com/RPLyrIC.png",
+      "posterShape": "square",
+      "description": "Cine.AR en vivo"
+    }
+  ]
+}

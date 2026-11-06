@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_tn",
+    "type": "tv",
+    "name": "TN Todo Noticias",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+    "posterShape": "square",
+    "description": "TN Todo Noticias en vivo"
+  }
+}

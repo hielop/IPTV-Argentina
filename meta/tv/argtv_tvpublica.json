@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_tvpublica",
+    "type": "tv",
+    "name": "Televisión Pública",
+    "poster": "https://i.imgur.com/4hYYpiu.png",
+    "logo": "https://i.imgur.com/4hYYpiu.png",
+    "posterShape": "square",
+    "description": "Televisión Pública en vivo"
+  }
+}

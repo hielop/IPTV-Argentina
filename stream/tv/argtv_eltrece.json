@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "El Trece",
+      "title": "En vivo",
+      "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
+    }
+  ]
+}

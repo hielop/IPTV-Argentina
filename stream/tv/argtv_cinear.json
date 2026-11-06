@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Cine.AR",
+      "title": "En vivo",
+      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8"
+    }
+  ]
+}

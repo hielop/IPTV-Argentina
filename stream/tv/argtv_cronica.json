@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Crónica TV",
+      "title": "En vivo (abre YouTube)",
+      "externalUrl": "https://www.youtube.com/c/cronicatv/live"
+    }
+  ]
+}

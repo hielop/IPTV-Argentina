@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_elnueve",
+    "type": "tv",
+    "name": "El Nueve",
+    "poster": "https://i.imgur.com/EtcVSm4.png",
+    "logo": "https://i.imgur.com/EtcVSm4.png",
+    "posterShape": "square",
+    "description": "El Nueve en vivo"
+  }
+}

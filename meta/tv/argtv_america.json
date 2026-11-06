@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_america",
+    "type": "tv",
+    "name": "América",
+    "poster": "https://i.imgur.com/Jt7dOQm.png",
+    "logo": "https://i.imgur.com/Jt7dOQm.png",
+    "posterShape": "square",
+    "description": "América en vivo"
+  }
+}

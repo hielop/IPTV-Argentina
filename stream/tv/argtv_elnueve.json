@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "El Nueve",
+      "title": "En vivo (opción 1)",
+      "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8"
+    },
+    {
+      "name": "El Nueve",
+      "title": "En vivo (opción 2)",
+      "url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8"
+    }
+  ]
+}

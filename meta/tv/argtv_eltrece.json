@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "id": "argtv_eltrece",
+    "type": "tv",
+    "name": "El Trece",
+    "poster": "https://i.imgur.com/ZK7AQFg.png",
+    "logo": "https://i.imgur.com/ZK7AQFg.png",
+    "posterShape": "square",
+    "description": "El Trece en vivo"
+  }
+}
