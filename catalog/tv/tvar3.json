@@ -1,0 +1,134 @@
+{
+  "metas": [
+    {
+      "id": "argtv_eltrece",
+      "type": "tv",
+      "name": "El Trece",
+      "poster": "https://hielop.github.io/tv-ar/posters/eltrece.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/eltrece.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/eltrece.png?v=4",
+      "posterShape": "square",
+      "description": "El Trece en vivo"
+    },
+    {
+      "id": "argtv_telefe",
+      "type": "tv",
+      "name": "Telefe",
+      "poster": "https://hielop.github.io/tv-ar/posters/telefe.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/telefe.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/telefe.png?v=4",
+      "posterShape": "square",
+      "description": "Telefe en vivo"
+    },
+    {
+      "id": "argtv_tn",
+      "type": "tv",
+      "name": "TN Todo Noticias",
+      "poster": "https://hielop.github.io/tv-ar/posters/tn.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/tn.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/tn.png?v=4",
+      "posterShape": "square",
+      "description": "TN Todo Noticias en vivo"
+    },
+    {
+      "id": "argtv_america",
+      "type": "tv",
+      "name": "América",
+      "poster": "https://hielop.github.io/tv-ar/posters/america.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/america.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/america.png?v=4",
+      "posterShape": "square",
+      "description": "América en vivo"
+    },
+    {
+      "id": "argtv_elnueve",
+      "type": "tv",
+      "name": "El Nueve",
+      "poster": "https://hielop.github.io/tv-ar/posters/elnueve.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/elnueve.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/elnueve.png?v=4",
+      "posterShape": "square",
+      "description": "El Nueve en vivo"
+    },
+    {
+      "id": "argtv_tvpublica",
+      "type": "tv",
+      "name": "Televisión Pública",
+      "poster": "https://hielop.github.io/tv-ar/posters/tvpublica.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/tvpublica.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/tvpublica.png?v=4",
+      "posterShape": "square",
+      "description": "Televisión Pública en vivo"
+    },
+    {
+      "id": "argtv_a24",
+      "type": "tv",
+      "name": "A24",
+      "poster": "https://hielop.github.io/tv-ar/posters/a24.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/a24.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/a24.png?v=4",
+      "posterShape": "square",
+      "description": "A24 en vivo"
+    },
+    {
+      "id": "argtv_c5n",
+      "type": "tv",
+      "name": "C5N",
+      "poster": "https://hielop.github.io/tv-ar/posters/c5n.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/c5n.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/c5n.png?v=4",
+      "posterShape": "square",
+      "description": "C5N en vivo"
+    },
+    {
+      "id": "argtv_lnmas",
+      "type": "tv",
+      "name": "LN+",
+      "poster": "https://hielop.github.io/tv-ar/posters/lnmas.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/lnmas.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/lnmas.png?v=4",
+      "posterShape": "square",
+      "description": "LN+ en vivo"
+    },
+    {
+      "id": "argtv_cronica",
+      "type": "tv",
+      "name": "Crónica TV",
+      "poster": "https://hielop.github.io/tv-ar/posters/cronica.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/cronica.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/cronica.png?v=4",
+      "posterShape": "square",
+      "description": "Crónica TV en vivo"
+    },
+    {
+      "id": "argtv_canal26",
+      "type": "tv",
+      "name": "Canal 26",
+      "poster": "https://hielop.github.io/tv-ar/posters/canal26.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/canal26.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/canal26.png?v=4",
+      "posterShape": "square",
+      "description": "Canal 26 en vivo"
+    },
+    {
+      "id": "argtv_deportv",
+      "type": "tv",
+      "name": "DeporTV",
+      "poster": "https://hielop.github.io/tv-ar/posters/deportv.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/deportv.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/deportv.png?v=4",
+      "posterShape": "square",
+      "description": "DeporTV en vivo"
+    },
+    {
+      "id": "argtv_cinear",
+      "type": "tv",
+      "name": "Cine.AR",
+      "poster": "https://hielop.github.io/tv-ar/posters/cinear.png?v=4",
+      "logo": "https://hielop.github.io/tv-ar/logos/cinear.png?v=4",
+      "background": "https://hielop.github.io/tv-ar/backgrounds/cinear.png?v=4",
+      "posterShape": "square",
+      "description": "Cine.AR en vivo"
+    }
+  ]
+}

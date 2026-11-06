@@ -3,9 +3,9 @@
     "id": "argtv_elnueve",
     "type": "tv",
     "name": "El Nueve",
-    "poster": "https://hielop.github.io/tv-ar/logos/elnueve.png?v=3",
-    "logo": "https://hielop.github.io/tv-ar/logos/elnueve.png?v=3",
-    "background": "https://hielop.github.io/tv-ar/backgrounds/elnueve.jpg?v=1",
+    "poster": "https://hielop.github.io/tv-ar/posters/elnueve.png?v=4",
+    "logo": "https://hielop.github.io/tv-ar/logos/elnueve.png?v=4",
+    "background": "https://hielop.github.io/tv-ar/backgrounds/elnueve.png?v=4",
     "posterShape": "square",
     "description": "El Nueve en vivo"
   }

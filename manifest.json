@@ -1,6 +1,6 @@
 {
-  "id": "ar.daniel.tvargentina.v2",
-  "version": "2.2.0",
+  "id": "ar.daniel.tvargentina.v3",
+  "version": "3.0.0",
   "name": "TV Argentina (principales)",
   "description": "Canales de aire argentinos: El Trece, Telefe, TN, América y más.",
   "resources": [
@@ -17,7 +17,7 @@
   "catalogs": [
     {
       "type": "tv",
-      "id": "tvar",
+      "id": "tvar3",
       "name": "TV Argentina"
     }
   ]

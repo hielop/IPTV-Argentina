@@ -71,21 +71,21 @@ if os.path.exists(OUT):
 os.makedirs(OUT)
 
 w("manifest.json", {
-    "id": "ar.daniel.tvargentina.v2",
-    "version": "2.2.0",
+    "id": "ar.daniel.tvargentina.v3",
+    "version": "3.0.0",
     "name": "TV Argentina (principales)",
     "description": "Canales de aire argentinos: El Trece, Telefe, TN, América y más.",
     "resources": ["catalog", "meta", "stream"],
     "types": ["tv"],
     "idPrefixes": [PREFIX],
-    "catalogs": [{"type": "tv", "id": "tvar", "name": "TV Argentina"}],
+    "catalogs": [{"type": "tv", "id": "tvar3", "name": "TV Argentina"}],
 })
 
 metas = []
 for cid, name, logo, streams in CHANNELS:
     mid = PREFIX + cid
-    meta = {"id": mid, "type": "tv", "name": name, "poster": f"{SITE_URL}/logos/{cid}.png?v=3", "logo": f"{SITE_URL}/logos/{cid}.png?v=3",
-            "background": f"{SITE_URL}/backgrounds/{cid}.jpg?v=1", "posterShape": "square", "description": f"{name} en vivo"}
+    meta = {"id": mid, "type": "tv", "name": name, "poster": f"{SITE_URL}/posters/{cid}.png?v=4", "logo": f"{SITE_URL}/logos/{cid}.png?v=4",
+            "background": f"{SITE_URL}/backgrounds/{cid}.png?v=4", "posterShape": "square", "description": f"{name} en vivo"}
     metas.append(meta)
     w(f"meta/tv/{mid}.json", {"meta": meta})
     out = []
@@ -98,9 +98,9 @@ for cid, name, logo, streams in CHANNELS:
             out.append({"name": name, "title": "En vivo (abre YouTube)", "externalUrl": url})
     w(f"stream/tv/{mid}.json", {"streams": out})
 
-w("catalog/tv/tvar.json", {"metas": metas})
+w("catalog/tv/tvar3.json", {"metas": metas})
 open(os.path.join(OUT, ".nojekyll"), "w").close()
-for d in ("logos", "backgrounds"):
+for d in ("logos", "posters", "backgrounds"):
     if os.path.isdir(os.path.join(BASE, d)):
         shutil.copytree(os.path.join(BASE, d), os.path.join(OUT, d))
 print("OK", len(metas), "canales")

@@ -3,9 +3,9 @@
     "id": "argtv_tn",
     "type": "tv",
     "name": "TN Todo Noticias",
-    "poster": "https://hielop.github.io/tv-ar/logos/tn.png?v=3",
-    "logo": "https://hielop.github.io/tv-ar/logos/tn.png?v=3",
-    "background": "https://hielop.github.io/tv-ar/backgrounds/tn.jpg?v=1",
+    "poster": "https://hielop.github.io/tv-ar/posters/tn.png?v=4",
+    "logo": "https://hielop.github.io/tv-ar/logos/tn.png?v=4",
+    "background": "https://hielop.github.io/tv-ar/backgrounds/tn.png?v=4",
     "posterShape": "square",
     "description": "TN Todo Noticias en vivo"
   }

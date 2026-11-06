@@ -3,9 +3,9 @@
     "id": "argtv_america",
     "type": "tv",
     "name": "América",
-    "poster": "https://hielop.github.io/tv-ar/logos/america.png?v=3",
-    "logo": "https://hielop.github.io/tv-ar/logos/america.png?v=3",
-    "background": "https://hielop.github.io/tv-ar/backgrounds/america.jpg?v=1",
+    "poster": "https://hielop.github.io/tv-ar/posters/america.png?v=4",
+    "logo": "https://hielop.github.io/tv-ar/logos/america.png?v=4",
+    "background": "https://hielop.github.io/tv-ar/backgrounds/america.png?v=4",
     "posterShape": "square",
     "description": "América en vivo"
   }

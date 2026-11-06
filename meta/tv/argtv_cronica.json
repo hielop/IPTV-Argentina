@@ -3,9 +3,9 @@
     "id": "argtv_cronica",
     "type": "tv",
     "name": "Crónica TV",
-    "poster": "https://hielop.github.io/tv-ar/logos/cronica.png?v=3",
-    "logo": "https://hielop.github.io/tv-ar/logos/cronica.png?v=3",
-    "background": "https://hielop.github.io/tv-ar/backgrounds/cronica.jpg?v=1",
+    "poster": "https://hielop.github.io/tv-ar/posters/cronica.png?v=4",
+    "logo": "https://hielop.github.io/tv-ar/logos/cronica.png?v=4",
+    "background": "https://hielop.github.io/tv-ar/backgrounds/cronica.png?v=4",
     "posterShape": "square",
     "description": "Crónica TV en vivo"
   }
