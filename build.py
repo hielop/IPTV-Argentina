@@ -72,7 +72,7 @@ os.makedirs(OUT)
 
 w("manifest.json", {
     "id": "ar.daniel.tvargentina.v2",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "name": "TV Argentina (principales)",
     "description": "Canales de aire argentinos: El Trece, Telefe, TN, América y más.",
     "resources": ["catalog", "meta", "stream"],
@@ -85,7 +85,7 @@ metas = []
 for cid, name, logo, streams in CHANNELS:
     mid = PREFIX + cid
     meta = {"id": mid, "type": "tv", "name": name, "poster": f"{SITE_URL}/logos/{cid}.png?v=3", "logo": f"{SITE_URL}/logos/{cid}.png?v=3",
-            "posterShape": "square", "description": f"{name} en vivo"}
+            "background": f"{SITE_URL}/backgrounds/{cid}.jpg?v=1", "posterShape": "square", "description": f"{name} en vivo"}
     metas.append(meta)
     w(f"meta/tv/{mid}.json", {"meta": meta})
     out = []
@@ -100,6 +100,7 @@ for cid, name, logo, streams in CHANNELS:
 
 w("catalog/tv/tvar.json", {"metas": metas})
 open(os.path.join(OUT, ".nojekyll"), "w").close()
-if os.path.isdir(os.path.join(BASE, "logos")):
-    shutil.copytree(os.path.join(BASE, "logos"), os.path.join(OUT, "logos"))
+for d in ("logos", "backgrounds"):
+    if os.path.isdir(os.path.join(BASE, d)):
+        shutil.copytree(os.path.join(BASE, d), os.path.join(OUT, d))
 print("OK", len(metas), "canales")
