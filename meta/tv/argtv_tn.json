@@ -3,8 +3,8 @@
     "id": "argtv_tn",
     "type": "tv",
     "name": "TN Todo Noticias",
-    "poster": "https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FTN_todo_noticias_logo.svg%2F250px-TN_todo_noticias_logo.svg.png&w=400&h=400&fit=contain&cbg=white&output=png",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+    "poster": "https://hielop.github.io/tv-ar/logos/tn.png",
+    "logo": "https://hielop.github.io/tv-ar/logos/tn.png",
     "posterShape": "square",
     "description": "TN Todo Noticias en vivo"
   }

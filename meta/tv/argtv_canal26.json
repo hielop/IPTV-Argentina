@@ -3,8 +3,8 @@
     "id": "argtv_canal26",
     "type": "tv",
     "name": "Canal 26",
-    "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2F5pAaVih.png&w=400&h=400&fit=contain&cbg=white&output=png",
-    "logo": "https://i.imgur.com/5pAaVih.png",
+    "poster": "https://hielop.github.io/tv-ar/logos/canal26.png",
+    "logo": "https://hielop.github.io/tv-ar/logos/canal26.png",
     "posterShape": "square",
     "description": "Canal 26 en vivo"
   }

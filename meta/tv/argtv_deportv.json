@@ -3,8 +3,8 @@
     "id": "argtv_deportv",
     "type": "tv",
     "name": "DeporTV",
-    "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FiyYLNRt.png&w=400&h=400&fit=contain&cbg=white&output=png",
-    "logo": "https://i.imgur.com/iyYLNRt.png",
+    "poster": "https://hielop.github.io/tv-ar/logos/deportv.png",
+    "logo": "https://hielop.github.io/tv-ar/logos/deportv.png",
     "posterShape": "square",
     "description": "DeporTV en vivo"
   }

@@ -4,6 +4,7 @@ from urllib.parse import quote
 BASE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(BASE, "site")
 PREFIX = "argtv_"
+SITE_URL = "https://hielop.github.io/tv-ar"
 
 # Cada canal puede tener varios streams: el primero es el principal, el resto son respaldo.
 # ("hls", url) se reproduce en la app | ("yt", url) abre el en vivo de YouTube
@@ -71,7 +72,7 @@ os.makedirs(OUT)
 
 w("manifest.json", {
     "id": "ar.daniel.tvargentina",
-    "version": "1.2.0",
+    "version": "1.4.0",
     "name": "TV Argentina (principales)",
     "description": "Canales de aire argentinos: El Trece, Telefe, TN, América y más.",
     "resources": ["catalog", "meta", "stream"],
@@ -83,7 +84,7 @@ w("manifest.json", {
 metas = []
 for cid, name, logo, streams in CHANNELS:
     mid = PREFIX + cid
-    meta = {"id": mid, "type": "tv", "name": name, "poster": square(logo), "logo": logo,
+    meta = {"id": mid, "type": "tv", "name": name, "poster": f"{SITE_URL}/logos/{cid}.png", "logo": f"{SITE_URL}/logos/{cid}.png",
             "posterShape": "square", "description": f"{name} en vivo"}
     metas.append(meta)
     w(f"meta/tv/{mid}.json", {"meta": meta})
@@ -99,4 +100,6 @@ for cid, name, logo, streams in CHANNELS:
 
 w("catalog/tv/argentina.json", {"metas": metas})
 open(os.path.join(OUT, ".nojekyll"), "w").close()
+if os.path.isdir(os.path.join(BASE, "logos")):
+    shutil.copytree(os.path.join(BASE, "logos"), os.path.join(OUT, "logos"))
 print("OK", len(metas), "canales")

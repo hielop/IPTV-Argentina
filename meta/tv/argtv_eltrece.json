@@ -3,8 +3,8 @@
     "id": "argtv_eltrece",
     "type": "tv",
     "name": "El Trece",
-    "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FZK7AQFg.png&w=400&h=400&fit=contain&cbg=white&output=png",
-    "logo": "https://i.imgur.com/ZK7AQFg.png",
+    "poster": "https://hielop.github.io/tv-ar/logos/eltrece.png",
+    "logo": "https://hielop.github.io/tv-ar/logos/eltrece.png",
     "posterShape": "square",
     "description": "El Trece en vivo"
   }
