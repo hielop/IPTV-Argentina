@@ -1,4 +1,5 @@
 import json, os, shutil
+from urllib.parse import quote
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(BASE, "site")
@@ -54,6 +55,10 @@ CHANNELS = [
     ]),
 ]
 
+def square(url):
+    # Pasa el logo por un resizer: lo deja cuadrado, entero (sin recortar) y con fondo blanco
+    return "https://wsrv.nl/?url=" + quote(url, safe="") + "&w=400&h=400&fit=contain&cbg=white&output=png"
+
 def w(path, data):
     full = os.path.join(OUT, path)
     os.makedirs(os.path.dirname(full), exist_ok=True)
@@ -66,7 +71,7 @@ os.makedirs(OUT)
 
 w("manifest.json", {
     "id": "ar.daniel.tvargentina",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "name": "TV Argentina (principales)",
     "description": "Canales de aire argentinos: El Trece, Telefe, TN, América y más.",
     "resources": ["catalog", "meta", "stream"],
@@ -78,7 +83,7 @@ w("manifest.json", {
 metas = []
 for cid, name, logo, streams in CHANNELS:
     mid = PREFIX + cid
-    meta = {"id": mid, "type": "tv", "name": name, "poster": logo, "logo": logo,
+    meta = {"id": mid, "type": "tv", "name": name, "poster": square(logo), "logo": logo,
             "posterShape": "square", "description": f"{name} en vivo"}
     metas.append(meta)
     w(f"meta/tv/{mid}.json", {"meta": meta})

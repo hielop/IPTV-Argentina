@@ -4,7 +4,7 @@
       "id": "argtv_eltrece",
       "type": "tv",
       "name": "El Trece",
-      "poster": "https://i.imgur.com/ZK7AQFg.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FZK7AQFg.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/ZK7AQFg.png",
       "posterShape": "square",
       "description": "El Trece en vivo"
@@ -13,7 +13,7 @@
       "id": "argtv_telefe",
       "type": "tv",
       "name": "Telefe",
-      "poster": "https://i.imgur.com/wrZfMXn.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FwrZfMXn.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/wrZfMXn.png",
       "posterShape": "square",
       "description": "Telefe en vivo"
@@ -22,7 +22,7 @@
       "id": "argtv_tn",
       "type": "tv",
       "name": "TN Todo Noticias",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FTN_todo_noticias_logo.svg%2F250px-TN_todo_noticias_logo.svg.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
       "posterShape": "square",
       "description": "TN Todo Noticias en vivo"
@@ -31,7 +31,7 @@
       "id": "argtv_america",
       "type": "tv",
       "name": "América",
-      "poster": "https://i.imgur.com/Jt7dOQm.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FJt7dOQm.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/Jt7dOQm.png",
       "posterShape": "square",
       "description": "América en vivo"
@@ -40,7 +40,7 @@
       "id": "argtv_elnueve",
       "type": "tv",
       "name": "El Nueve",
-      "poster": "https://i.imgur.com/EtcVSm4.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FEtcVSm4.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/EtcVSm4.png",
       "posterShape": "square",
       "description": "El Nueve en vivo"
@@ -49,7 +49,7 @@
       "id": "argtv_tvpublica",
       "type": "tv",
       "name": "Televisión Pública",
-      "poster": "https://i.imgur.com/4hYYpiu.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2F4hYYpiu.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/4hYYpiu.png",
       "posterShape": "square",
       "description": "Televisión Pública en vivo"
@@ -58,7 +58,7 @@
       "id": "argtv_a24",
       "type": "tv",
       "name": "A24",
-      "poster": "https://i.imgur.com/OdhF7ym.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FOdhF7ym.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/OdhF7ym.png",
       "posterShape": "square",
       "description": "A24 en vivo"
@@ -67,7 +67,7 @@
       "id": "argtv_c5n",
       "type": "tv",
       "name": "C5N",
-      "poster": "https://i.imgur.com/E3pamA5.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FE3pamA5.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/E3pamA5.png",
       "posterShape": "square",
       "description": "C5N en vivo"
@@ -76,7 +76,7 @@
       "id": "argtv_lnmas",
       "type": "tv",
       "name": "LN+",
-      "poster": "https://i.imgur.com/vJYzGt1.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FvJYzGt1.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/vJYzGt1.png",
       "posterShape": "square",
       "description": "LN+ en vivo"
@@ -85,7 +85,7 @@
       "id": "argtv_cronica",
       "type": "tv",
       "name": "Crónica TV",
-      "poster": "https://i.imgur.com/k2Ku8Ib.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2Fk2Ku8Ib.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/k2Ku8Ib.png",
       "posterShape": "square",
       "description": "Crónica TV en vivo"
@@ -94,7 +94,7 @@
       "id": "argtv_canal26",
       "type": "tv",
       "name": "Canal 26",
-      "poster": "https://i.imgur.com/5pAaVih.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2F5pAaVih.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/5pAaVih.png",
       "posterShape": "square",
       "description": "Canal 26 en vivo"
@@ -103,7 +103,7 @@
       "id": "argtv_deportv",
       "type": "tv",
       "name": "DeporTV",
-      "poster": "https://i.imgur.com/iyYLNRt.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FiyYLNRt.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/iyYLNRt.png",
       "posterShape": "square",
       "description": "DeporTV en vivo"
@@ -112,7 +112,7 @@
       "id": "argtv_cinear",
       "type": "tv",
       "name": "Cine.AR",
-      "poster": "https://i.imgur.com/RPLyrIC.png",
+      "poster": "https://wsrv.nl/?url=https%3A%2F%2Fi.imgur.com%2FRPLyrIC.png&w=400&h=400&fit=contain&cbg=white&output=png",
       "logo": "https://i.imgur.com/RPLyrIC.png",
       "posterShape": "square",
       "description": "Cine.AR en vivo"
